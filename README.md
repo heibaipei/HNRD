@@ -1,5 +1,5 @@
 # HNRD
-Support the paper fo HNRD
+Support the paper for HNRD 
 
 # Requirements
 
