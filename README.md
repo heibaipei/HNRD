@@ -1,6 +1,6 @@
 # HNRD
-Support the paper for HNRD 
-
+Support the paper for HNRD  https://ieeexplore.ieee.org/document/8694876
+ 
 # Requirements
 
 tensorflow (>0.12)
